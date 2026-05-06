@@ -37,4 +37,22 @@ A complete list is also available on my [Google Scholar profile](https://scholar
 
 11. **X. Zhu**, Y. Wu, G. Li, W. Lu. *In-situ composition development of Zn/In-doped Ga₂O₃ nanowire with ultrahigh responsivity and long-term stability for deep-UV photodetector*. **Journal of Alloys and Compounds**, 953, 170109 (2023).
 
-12. **X. Zhu**, Z. Pan, W. Lu. *Hierarchical nanohybrid of CuS/NiS₂/Ti₃C₂ heterostructure with boosting ch
+12. **X. Zhu**, Z. Pan, W. Lu. *Hierarchical nanohybrid of CuS/NiS₂/Ti₃C₂ heterostructure with boosting charge transfer for efficient photocatalytic hydrogen evolution*. **International Journal of Hydrogen Energy**, 48(69), 26740–26756 (2023).
+
+## 2022
+
+13. **X. Zhu**. *Recent advances of transition metal oxides and chalcogenides in pseudo-capacitors and hybrid capacitors: A review of structures, synthetic strategies, and mechanism studies*. **Journal of Energy Storage**, 49, 104148 (2022).
+
+14. **X. Zhu**, S. Liu. *Construction of hollow-sphere CuNi₂S₄ with optimized structure and boosting conductivity for hybrid supercapacitor*. **Journal of Energy Storage**, 51, 104582 (2022).
+
+15. **X. Zhu**, S. Liu. *Tremella-like 2D nickel–copper disulfide with ultrahigh capacity and cyclic retention for hybrid supercapacitors*. **ACS Applied Materials & Interfaces**, 14(38), 43265–43276 (2022).
+
+16. **X. Zhu**, S. Liu. *Al₂O₃-assisted synthesis of hollow CuCo₂S₄ nanospheres with rich sulfur vacancies for hybrid supercapacitor*. **Electrochimica Acta**, 427, 140881 (2022).
+
+## 2017
+
+17. Z. Lin, X. Li, W. Huang, **X. Zhu**, Y. Wang, Z. Shan. *Active platinum nanoparticles as a bifunctional promoter for lithium–sulfur batteries*. **ChemElectroChem**, 4(10), 2577–2582 (2017).
+
+18. Z. Wang, Z. Shan, J. Tian, W. Huang, D. Luo, **X. Zhu**, S. Meng. *Immersion-plated Cu₆Sn₅/Sn composite film anode for lithium ion battery*. **Journal of Materials Science**, 52(10), 6020–6033 (2017).
+
+19. **X. Zhu**, J. Tian, X. Liu, W. Huang, D. Luo, Z. Wang, Z. Shan. *A novel compact cathode using sponge-like RANEY® nickel as the sulfur immobilizer for lithium–sulfur batteries*. **RSC Advances**, 7(56), 35482–35489 (2017).
