@@ -43,7 +43,7 @@ A complete list is also available on my [Google Scholar profile](https://scholar
 
 13. **Xi Zhu**, S. Liu. *Construction of hollow-sphere CuNi₂S₄ with optimized structure and boosting conductivity for hybrid supercapacitor*. **Journal of Energy Storage**, 51, 104582 (2022).
 
-14. **Xi Zhu**. *Recent advances of transition metal oxides and chalcogenides in pseudo-capacitors and hybrid capacitors: A review of structures, synthetic strategies, and mechanism studies*. **Journal of Energy Storage**, 49, 104148 (2022).
+14. **Xi Zhu**. *Recent advances of transition metal oxides and chalcogenides in pseudo-capacitors and hybrid capacitors: A review of structures, synthetic strategies, and mechanism studies*. **Journal of Energy Storage**, 49, 104148 (2022). [https://www.sciencedirect.com/science/article/pii/S2352152X22001827]
 
 15. **Xi Zhu**, S. Liu. *Al₂O₃-assisted synthesis of hollow CuCo₂S₄ nanospheres with rich sulfur vacancies for hybrid supercapacitor*. **Electrochimica Acta**, 427, 140881 (2022).
 
