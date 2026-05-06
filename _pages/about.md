@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate at the **University of Georgia**, working on computational and experimental studies of energy materials.
+I am a Postdoctoral Researcher in the **Department of Crop and Soil Sciences** at the **University of Georgia**, working with Prof. Qingguo Huang. My current research focuses on the **electrochemical degradation and detection of per- and polyfluoroalkyl substances (PFAS)** — emerging "forever chemicals" of growing environmental and public-health concern.
+
+Before joining UGA, I earned my Ph.D. in Optical Engineering from the University of Chinese Academy of Sciences (2019–2023), where I worked on transition-metal compounds for supercapacitors and ultraviolet photodetectors. I also spent two years as a Project R&D Engineer at Shenzhen BAK Power Battery Co., Ltd., contributing to lithium-ion battery development.
 
 ## Research Interests
 
-My research focuses on the design and understanding of advanced materials for clean energy technologies, including:
-
-- **Electrocatalysis** — catalyst design for hydrogen evolution, oxygen evolution, and CO₂ reduction
-- **Photocatalysis** — light-driven chemical conversion and solar fuel generation
-- **Supercapacitors** — high-performance electrode materials for energy storage
-- **Lithium-sulfur (Li-S) batteries** — addressing polysulfide shuttle and capacity decay
-- **Lithium-ion (Li-ion) batteries** — electrode and electrolyte design for next-generation devices
+- **Pollutant degradation** — electrochemical reduction and oxidation of PFAS
+- **Electrochemical sensors** — MOF-based ultrasensitive detection of PFAS, machine-learning-assisted differentiation of PFAS species
+- **Electrocatalysis** — cathode-material design for in-situ water treatment
+- **Photocatalysis** — transition-metal compounds for hydrogen evolution and UV photodetection
+- **Energy storage materials** — supercapacitors and Li-S / Li-ion batteries
 
 ## Contact
 
