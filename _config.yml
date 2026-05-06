@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/xi-zhu.bsky.social" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/winni.chu.369309/"
+  bluesky          : "xi-zhu.bsky.social" # Replace this with you Bluesky username
+  facebook         : "winni.chu.369309/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/xixixichu210/"
+  instagram        : "xixixichu210/"
   lastfm           : # Username
-  linkedin         : "xi-zhu-946763352"
+  linkedin         : "zhuxi199002@gmail.com"
   mastodon         : # URL
   medium           : # URL
   pinterest        : "zhuxi199002/"
@@ -74,13 +74,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/WinniChu1"
+  twitter          : "WinniChu1"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@winnichu3638"
-  zhihu            : "https://www.zhihu.com/people/111-92-3-73"
+  youtube          : "@winnichu3638"
+  zhihu            : "people/111-92-3-73"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
