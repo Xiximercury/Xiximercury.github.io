@@ -57,14 +57,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "zhuxi199002@gmail.com" # Replace this with you Bluesky username
-  facebook         : "zhuxi199002@163.com"
+  bluesky          : # Username
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "zhuxi199002@gmail.com"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "zhuxi199002@gmail.com"
   mastodon         : # URL
@@ -79,8 +79,8 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "zhuxi199002@gmail.com8"
-  zhihu            : "百里奚"
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
