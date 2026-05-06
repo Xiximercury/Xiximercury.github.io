@@ -92,4 +92,4 @@ See the [Presentations](/talks/) page for a full list.
 
 - **Email:** [Xi.Zhu1@uga.edu](mailto:Xi.Zhu1@uga.edu)
 - **Phone:** (+1) 470-881-9351
-- **Location:** Athens, Griffin, USA
+- **Location:** Griffin, Georgia, USA
