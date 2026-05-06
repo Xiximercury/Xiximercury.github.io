@@ -39,7 +39,7 @@
     margin-top: 0 !important;
   }
 
-  /* 防止侧边栏 bio 溢出主内容区 */
+/* 防止侧边栏 bio 溢出主内容区 */
   .author__bio {
     max-width: 100%;
     word-wrap: break-word;
@@ -50,4 +50,20 @@
   .sidebar {
     overflow: hidden;
   }
+  
+  /* 让 News 页面布局和 Publications 对齐 */
+  body.layout--archive .archive {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+  
+  body.layout--archive .page__title {
+    margin-top: 0 !important;
+  }
+  
+  /* 防止头像往下挤 */
+  body.layout--archive .sidebar {
+    padding-top: 0 !important;
+  }
+
 </style>
