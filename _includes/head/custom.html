@@ -38,4 +38,16 @@
   .page__footer-copyright {
     margin-top: 0 !important;
   }
+
+  /* 防止侧边栏 bio 溢出主内容区 */
+  .author__bio {
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+  
+  .sidebar {
+    overflow: hidden;
+  }
 </style>
