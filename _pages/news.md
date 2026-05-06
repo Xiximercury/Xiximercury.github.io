@@ -20,4 +20,4 @@ author_profile: true
 
 ## 2023
 
-- **\[Nov 2023\]** Joined the **University of Georgia** as a Postdoctoral Researcher with Prof. Qingguo Huang. 🐶
+- **\[Nov 2023\]** Joined the **University of Georgia** as a Postdoctoral Researcher with Prof. Qingguo Huang. 🎉
